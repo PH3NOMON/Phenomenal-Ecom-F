@@ -37,3 +37,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 STILL IN PROGRESS (DONT USE IT NOW ).
+
+ScreenShots :
+![image](https://github.com/PH3NOMON/Phenomenal-Ecom-F/assets/120302946/ca477ba7-c85a-4b8c-8538-73036af3b296)
+![image](https://github.com/PH3NOMON/Phenomenal-Ecom-F/assets/120302946/34fa0383-9f45-4e6d-92ad-98506f0c8cb8)
+![image](https://github.com/PH3NOMON/Phenomenal-Ecom-F/assets/120302946/ddf6bee1-c443-4a13-8b3e-860960130100)
